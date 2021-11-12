@@ -13,7 +13,6 @@
 
 - IIS 7.0  or above.
 
-- HTML
 
 ## Tech Stack
 
