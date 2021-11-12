@@ -18,8 +18,6 @@
 ## Tech Stack
 
 - Visual Studio 2010 or above.
-
-- PHP
   
 ## Language
 
